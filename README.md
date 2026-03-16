@@ -1,13 +1,10 @@
 # Estimating Future State Water Project Deliveries to Southern California
 
-> A simplified reservoir-network framework for projecting SWP water deliveries
-> under climate-driven inflow reduction scenarios (2026–2100).
+A simplified reservoir-network framework for projecting SWP water deliveries under climate-driven inflow reduction scenarios (2026–2100).
 
 **Author:** Bharadwaj Vangipuram  
 **Course:** Water Resource Systems Engineering  
 **Date:** March 2026  
-
----
 
 ## Overview
 
